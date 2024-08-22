@@ -1,0 +1,6 @@
+title: My Tech Blog
+description: A blog about the latest in technology.
+theme: minima
+baseurl: ""
+url: "https://your-github-username.github.io/my-tech-blog"
+markdown: kramdown
